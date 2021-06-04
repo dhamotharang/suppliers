@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace HappyTravel.Suppliers.Enums
+namespace HappyTravel.SuppliersCatalog
 {
     public enum Suppliers
     {
