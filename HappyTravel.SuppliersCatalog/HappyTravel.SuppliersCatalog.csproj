@@ -8,12 +8,12 @@
         <Company>HappyTravel</Company>
         <Authors>Vadim Mingazhev</Authors>
         <Description>HappyTravel suppliers list</Description>
-        <PackageReleaseNotes>Changed project namespaces for easier usage</PackageReleaseNotes>
+        <PackageReleaseNotes>Added new suppliers</PackageReleaseNotes>
         <PackageProjectUrl>https://github.com/happy-travel/suppliers</PackageProjectUrl>
         <RepositoryURL>https://github.com/happy-travel/suppliers</RepositoryURL>
-        <Version>0.8.1</Version>
+        <Version>0.9.0</Version>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageVersion>0.8.1</PackageVersion>
+        <PackageVersion>0.9.0</PackageVersion>
     </PropertyGroup>
 
 </Project>

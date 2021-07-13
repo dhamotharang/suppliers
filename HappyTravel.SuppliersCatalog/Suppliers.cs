@@ -29,6 +29,27 @@ namespace HappyTravel.SuppliersCatalog
         Jumeirah = 8,
         
         [Description("Darina Holidays")] 
-        Darina = 9
+        Darina = 9,
+        
+        [Description("Yalago")]
+        Yalago = 10, 
+        
+        [Description("Paximum")]
+        Paximum = 11,
+        
+        [Description("TravelLine OÜ")]
+        TravelLine = 12,
+        
+        [Description("Bronevik")]
+        Bronevik = 13,
+        
+        [Description("Amadeus Hospitality")]
+        TravelClick = 14,
+        
+        [Description("Sodis")]
+        Sodis = 15,
+        
+        [Description("HotelBeds")]
+        HotelBeds = 16
     }
 }
