@@ -50,6 +50,9 @@ namespace HappyTravel.SuppliersCatalog
         Sodis = 15,
         
         [Description("HotelBeds")]
-        HotelBeds = 16
+        HotelBeds = 16,
+
+        [Description("Hotelbook Pro")]
+        HotelbookPro = 17
     }
 }
