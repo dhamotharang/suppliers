@@ -53,6 +53,12 @@ namespace HappyTravel.SuppliersCatalog
         HotelBeds = 16,
 
         [Description("Hotelbook Pro")]
-        HotelbookPro = 17
+        HotelbookPro = 17,
+        
+        [Description("BookMe Maldives")]
+        BookMe = 18,
+        
+        [Description("Roibos")]
+        Roibos = 19
     }
 }

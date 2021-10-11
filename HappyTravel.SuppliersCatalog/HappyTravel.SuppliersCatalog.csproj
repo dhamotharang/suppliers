@@ -8,12 +8,12 @@
         <Company>HappyTravel</Company>
         <Authors>Vadim Mingazhev</Authors>
         <Description>HappyTravel suppliers list</Description>
-        <PackageReleaseNotes>Added Hotlebook Pro supplier</PackageReleaseNotes>
+        <PackageReleaseNotes>Added BookMe and Roibos suppliers</PackageReleaseNotes>
         <PackageProjectUrl>https://github.com/happy-travel/suppliers</PackageProjectUrl>
         <RepositoryURL>https://github.com/happy-travel/suppliers</RepositoryURL>
-        <Version>0.9.1</Version>
+        <Version>0.10.0</Version>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageVersion>0.9.1</PackageVersion>
+        <PackageVersion>0.10.0</PackageVersion>
     </PropertyGroup>
 
 </Project>
